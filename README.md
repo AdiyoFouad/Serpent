@@ -1,0 +1,1 @@
+Ceci est un jeu de serpent que j'ai créé en utilisant les langages HTML, CSS et surtout JavaScript à travers la manipulation d'un canvas

@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(2, 2, 61, 0.137);
+}
+
+p{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p span{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+canvas{
+    display: block;
+    margin: 3em auto;
+    box-shadow: rgba(0, 0, 0, 0.349) 20px 10px 50px;
+}
+
+div{
+    background-color: rgba(223, 149, 75, 0.712);
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    color: white;
+}
